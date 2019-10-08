@@ -1,0 +1,4 @@
+it's text with //comment
+ //hello world
+/* some text*/ about java
+and a one more/*dodik*/

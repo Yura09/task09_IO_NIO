@@ -1,0 +1,23 @@
+15:50:51 INFO : [Human{name='Yura', age=18}
+, Sportsmen{name='Misha', age=20, typeOfSport=Box, rate=0}
+, Sportsmen{name='Kolya', age=19, typeOfSport=Footballer, rate=0}
+]
+15:51:10 INFO : 
+[Human{name='Yura', age=18}
+, Sportsmen{name='Misha', age=20, typeOfSport=Box, rate=0}
+, Sportsmen{name='Kolya', age=19, typeOfSport=Footballer, rate=0}
+]
+15:52:48 INFO : Human{name='Yura', age=18}
+15:52:48 INFO : Sportsmen{name='Misha', age=20, typeOfSport=Box, rate=0}
+15:52:48 INFO : Sportsmen{name='Kolya', age=19, typeOfSport=Footballer, rate=0}
+15:55:42 INFO : enter path to file
+15:55:47 INFO : //comment
+//hello world
+/* some text*/
+/*dodik*/
+
+15:55:53 INFO : enter path to file
+15:55:56 INFO : 
+15:56:46 INFO : enter path to file
+15:56:48 INFO : asd (Не удается найти указанный файл)
+15:56:48 INFO : 
